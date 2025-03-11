@@ -78,7 +78,7 @@ The Interaction Diagram detailed the sequence of interactions between the Studen
   - If the submission date has passed, the system rejects the submission.  
   - If all submissions are graded, the process ends; otherwise, the professor proceeds to the next student.  
 
-![Interaction Diagram](Images/IOD.png)  
+![Interaction Diagram](IOD.png)  
 *Figure 1: Interaction Diagram for the Code Submission and Grading System.*
 
 </details>
@@ -97,7 +97,7 @@ The Use Case Diagram provided a high-level overview of the system's functionalit
   - `<extend>`: Reject Late Submissions extends Upload Source Code.  
   - `<include>`: Check Plagiarism is included in Run and Grade Assignment.  
 
-![Use Case Diagram](Images/Usecase_Diagram_Namgay.png)  
+![Use Case Diagram](Usecase_Diagram_Namgay.png)  
 *Figure 2: Use Case Diagram for the Code Submission and Grading System.*
 
 </details>
@@ -112,7 +112,7 @@ The Interaction Overview Diagram provided a visual representation of the system'
 - **External Systems**: GitHub, LMS, and Turnitin.  
 - **Flow**: Showed how the actors interact with the system and external tools to achieve the desired outcomes.  
 
-![Interaction Overview Diagram](Images/IOD1.png)  
+![Interaction Overview Diagram](IOD1.png)  
 *Figure 3: Interaction Overview Diagram for the Code Submission and Grading System.*
 
 </details>
