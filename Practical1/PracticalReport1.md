@@ -1,10 +1,4 @@
 # Practical Report 1: Student-Professor GitHub Submission and Grading Process  
-**Course:** SDA202  
-**Submitted By:** Namgay Wangchuk  
-**Program:** 2SWE  
-**Student ID:** 02230290  
-
----
 
 ## Introduction  
 This report documents the practical work conducted on the Code Submission and Grading System. The system is designed to facilitate students in submitting their code assignments and professors in grading them efficiently. The system integrates with external tools like GitHub for code hosting, Turnitin for plagiarism detection, and LMS for seamless synchronization of grades and feedback. The practical work involved creating Use Case Diagrams (UCD), Interaction Diagrams (IoD), and an Interaction Overview Diagram (IoD) to model the system's functionality and interactions.
